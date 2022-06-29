@@ -8,7 +8,7 @@ namespace MVCApp.Models
 {
     public class Email
     {
-
+        [Key]
         public String Id { get; set; }
         [RegularExpression(@"^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$", ErrorMessage = "Email não é valido")]
         public String EmailAddress { get; set; }
