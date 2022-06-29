@@ -17,5 +17,9 @@ namespace MVCApp.Data
         public DbSet<MVCApp.Models.User> User { get; set; }
 
         public DbSet<MVCApp.Models.Email> Email { get; set; }
+
+        public DbSet<MVCApp.Models.PersonalPhone> PersonalPhone { get; set; }
+
+        public DbSet<MVCApp.Models.CommercialPhone> CommercialPhone { get; set; }
     }
 }

@@ -154,3 +154,8 @@ D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\Emails\De
 D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\Emails\Details.cshtml.g.cs
 D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\Emails\Edit.cshtml.g.cs
 D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\Emails\Index.cshtml.g.cs
+D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\PersonalPhones\Create.cshtml.g.cs
+D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\PersonalPhones\Delete.cshtml.g.cs
+D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\PersonalPhones\Details.cshtml.g.cs
+D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\PersonalPhones\Edit.cshtml.g.cs
+D:\Visual Studio repository\MVCApp\MVCApp\obj\Debug\net5.0\Razor\Views\PersonalPhones\Index.cshtml.g.cs
