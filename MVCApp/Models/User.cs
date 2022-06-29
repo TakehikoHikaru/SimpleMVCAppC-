@@ -13,8 +13,7 @@ namespace MVCApp.Models
         [Required(ErrorMessage = "Nome é um campo obrigatório")]
         public String Name { get; set; }
         public String Company { get; set; }
-        [RegularExpression(@"^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$", ErrorMessage = "Email não é valido")]
-        public String Email { get; set; }
+        public Email Email { get; set; }
         public int PersonalPhoneDDD { get; set; }
         [MaxLength(3)]
         public int PersonalPhoneDDI { get; set; }
